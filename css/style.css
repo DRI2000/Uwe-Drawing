@@ -123,7 +123,7 @@ p {
   margin-top: 100px;
 }
 
-#collection {
+#Collection {
   background-color: #003f5c;
   text-align: center;
   padding-top: 2.5%;
@@ -132,6 +132,8 @@ p {
 
 .collection-heading {
   color: #ff6361;
+  font-family: "Montserrat";
+  font-weight: 700;
 }
 
 .collection-col {
@@ -149,11 +151,10 @@ p {
 }
 
 .see-more {
-
   font-size: 1.7rem;
   border: 2px;
-  font-family: 'Delius';
-  color: white;
+  font-family: 'Montserrat';
+  color: #003f5c;
   margin-top: 1px;
   margin-bottom: 30px;
 }
