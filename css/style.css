@@ -1,0 +1,159 @@
+body {
+  position: relative;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.cont1 {
+  background-color: #003f5c;
+  margin: 0 0;
+  padding: 0 7%;
+}
+
+.navbar {
+  padding: 0 1% 0;
+  background-color: #003f5c;
+}
+
+.brand-logo {
+  border-radius: 50%;
+  margin-right: 5%;
+  margin-bottom: 7%;
+  margin-left: 3%;
+}
+
+.title {
+  font-family: "Delius Swash Caps";
+  font-weight: 700;
+  font-size: 2.3rem;
+  position: relative;
+  top: 5px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  padding: 0 0.8rem;
+}
+
+.navbar-dark .navbar-brand {
+  color: #ff6361;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #ff6361;
+}
+
+.nav-link {
+  font-family: "Delius";
+  font-weight: bold;
+  font-size: 1.3rem;
+  line-height: 1;
+}
+
+.navbar-toggler {
+  margin-right: 2%;
+}
+
+.navbar-collapse {
+  text-align: center;
+}
+
+#Highlights {
+  text-align: center;
+  padding-bottom: 5%;
+  padding: 0 5% 7%;
+  margin-top: 4rem;
+}
+
+.carousel-item {
+  margin: 8% auto 0 auto;
+  max-width: 550px;
+  width: 80%;
+}
+
+img {
+  border-radius: 10%;
+}
+
+.cont2 {
+  background-color: #ff6361;
+  margin: 0 0;
+  padding: 0 8.5%;
+  text-align: center;
+}
+
+#Bio {
+  padding: 3% 0 6%;
+  text-align: center;
+}
+
+.bio-heading {
+  color: #003f5c;
+  font-family: "Montserrat";
+  font-weight: 700;
+}
+
+p {
+  color: #003f5c;
+  font-size: 1.3rem;
+  text-align: justify;
+}
+
+.bio-row {
+  margin-top: 2rem;
+}
+
+.bio-image {
+  border-radius: 7%;
+  width: 85%;
+  min-width: 100px;
+  margin: 0.2rem auto 1rem auto;
+
+}
+
+.bio-text {
+  width: 90%;
+  margin: 0.2rem auto 0 auto;
+}
+
+.collection-col {
+  margin-top: 100px;
+}
+
+#collection {
+  background-color: #003f5c;
+  text-align: center;
+  padding-top: 2.5%;
+  padding-bottom: 2%;
+}
+
+.collection-heading {
+  color: #ff6361;
+}
+
+.collection-col {
+  margin-top: 100px;
+}
+
+
+.collection-image {
+  width: 60%;
+  margin-top: -60px;
+}
+
+.collection-row {
+  margin-bottom: 70px;
+}
+
+.see-more {
+
+  font-size: 1.7rem;
+  border: 2px;
+  font-family: 'Delius';
+  color: white;
+  margin-top: 1px;
+  margin-bottom: 30px;
+}
